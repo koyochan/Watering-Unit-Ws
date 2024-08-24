@@ -1,3 +1,4 @@
+#include "../lib/enable.h"
 #include "../lib/secrets.h"
 #include "../lib/watering_unit.h"
 
